@@ -1,1 +1,1 @@
-# M2_SchoolManagement_UTI
+# M2_TicTacToe_Game
