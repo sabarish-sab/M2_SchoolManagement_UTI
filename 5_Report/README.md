@@ -62,11 +62,12 @@ It can help to improve a person's concentration as well as strategic thinking
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
+`0_Certificate`    | Sololearn certification and HackerRank Gold badge
 `1_Requirements`   | Documents detailing requirements and research
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-   
+`5_Report`         | Report 
   
 
 
